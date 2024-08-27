@@ -1,0 +1,3 @@
+C:/Users/luizf/Faculdade/Exercicio2/cmake-build-debug/CMakeFiles/Exercicio2.dir
+C:/Users/luizf/Faculdade/Exercicio2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luizf/Faculdade/Exercicio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
